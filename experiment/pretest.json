@@ -1,0 +1,46 @@
+[
+{"question":"1. Molecular weight of a R enantiomer is __________ than that of S enantiomer.",
+"answer":{
+          "a":"Higher",
+          "b":"Equal",
+          "c":"Lower",
+          "d":"can not say"
+          },
+"correctanswer":"b"},
+
+{"question":"2. In normal ORD spectra there are ___ maxima and __ minima.",
+"answer":{
+          "a":"1,2",
+          "b":"1,1",
+          "c":"0,0",
+          "d":"0,1"
+          },
+"correctanswer":"c"},
+
+{"question":"3. Octant rule determines __________ of Cotton effect in ketones.",
+"answer":{
+          "a":"magnitude",
+          "b":"sign",
+          "c":"probability",
+          "d":"frequency"
+          },
+"correctanswer":"b"},
+
+{"question":"4. Abnormal ORD is observed when _________ is present in a chiral environment.",
+"answer":{
+          "a":"chromophore",
+          "b":"asymmetry center",
+          "c":"chiral center",
+          "d":"none of the above"
+          },
+"correctanswer":"a"},
+
+{"question":"5. At the absorption peak an anomalous ORD curve _____________. ",
+"answer":{
+          "a":"reaches minimum",
+          "b":"crosses the base line",
+          "c":"reaches maximum",
+          "d":"none of the above"
+          },
+"correctanswer":"b"}
+}]
