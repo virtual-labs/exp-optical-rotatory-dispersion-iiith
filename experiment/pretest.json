@@ -24,23 +24,6 @@
           "c":"probability",
           "d":"frequency"
           },
-"correctanswer":"b"},
-
-{"question":"4. Abnormal ORD is observed when _________ is present in a chiral environment.",
-"answer":{
-          "a":"chromophore",
-          "b":"asymmetry center",
-          "c":"chiral center",
-          "d":"none of the above"
-          },
-"correctanswer":"a"},
-
-{"question":"5. At the absorption peak an anomalous ORD curve _____________. ",
-"answer":{
-          "a":"reaches minimum",
-          "b":"crosses the base line",
-          "c":"reaches maximum",
-          "d":"none of the above"
-          },
 "correctanswer":"b"}
+
 }]
