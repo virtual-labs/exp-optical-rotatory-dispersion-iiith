@@ -8,13 +8,13 @@ Now let us see how different types of ORD spectra represents different physical 
 
 These curves are observed for transparent compounds in the UV range.A plain curve results showing a steady increase (or decrease) of optical rotation with decrease in wavelength. These curves does not cross the zero-rotation axis and are devoid of maxima or minima within measurable range. So-called plain curve is the ORD for a chiral compound that lacks a chromophore. For Example, alcohols and hydrocarbons exhibit such kind of ORD curves.  
 
-<img src="fig4.gif" width="400" height="200">
+<img src="images/fig4.gif" width="400" height="200">
 
-Another Property, Absorbance : Anomalous ORD Curve
+**Another Property, Absorbance : Anomalous ORD Curve**
 
 We have mentioned the term chromophore. It is the part of a molecule where absorbance of light takes place. This occurs because at this part energy of electronic transition between two [molecular orbitals](https://en.wikipedia.org/wiki/Molecular_orbital_matches) with energy of the photons of the incident light. Incident light that hits the chromophore can thus be absorbed by exciting an electron from its ground state into an excited state. So there is a range of wavelength,called the absorption band, where the light is absorbed. This absorption band has a maxima at a particular wavelength λ<sub>max</sub>. As a result there comes an anomaly in the ORD curve at the neighborhood of the chromophore. The absolute magnitude of the optical rotation at first varies rapidly with wavelength, crosses zero at absorption maxima and then again varies rapidly with wavelength but in opposite direction. Such anomaly is known as [Cotton effect](https://en.wikipedia.org/wiki/Cotton_effect). As opposed to plain curves, these curves exhibit a number of extreme peaks and troughs depending on the number of absorbing groups. The Cotton effect is called positive if the optical rotation first increases as the wavelength decreases (as first observed by Cotton), and negative if the rotation first decreases. The following figure exhibits both types of Cotton effects.
 
-<img src="1a.jpg" width="700" height="700">
+<img src="images/1a.jpg" width="700" height="700">
 
 Figure shows absorption band and -ve & +ve cotton effect near the absorption maxima
 
@@ -23,7 +23,7 @@ Figure shows absorption band and -ve & +ve cotton effect near the absorption max
 
 In case of saturated alkyl ketones there is a way, known as octant rule, to predict the sign of cotton effect (+ve or -ve) directly from the understanding of the structure. We can divide the space around the ketone into eight octants by looking down the carbonyl as shown below.
 
-<img src="pic1.gif" width="500" height="300">
+<img src="images/pic1.gif" width="500" height="300">
 
 source: Circular Dichroism Principles and Applications Second Edition edited by Nina Berova,Koji Nakanishi,Robert W Woody Page 233
 
