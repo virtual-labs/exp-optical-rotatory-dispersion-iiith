@@ -14,6 +14,20 @@
       "content-type": "text"
     },
     {
+      "target": "objective.html",
+      "source": "objective.md",
+      "label": "Objective",
+      "unit-type": "task",
+      "content-type": "text"
+    },
+    {
+      "target": "pretest.html",
+      "source": "pretest.json",
+      "label": "Pretest",
+      "unit-type": "task",
+      "content-type": "assesment"
+    },
+    {
       "target": "procedure.html",
       "source": "procedure.md",
       "label": "Procedure",
@@ -28,11 +42,18 @@
       "content-type": "simulation"
     },
     {
-      "target": "pretest.html",
-      "source": "pretest.json",
-      "label": "Pretest",
+      "target": "posttest.html",
+      "source": "posttest.json",
+      "label": "Posttest",
       "unit-type": "task",
-      "content-type": "assessment"
+      "content-type": "assesment"
+    },
+    {
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References",
+      "unit-type": "task",
+      "content-type": "text"
     }
   ]
 }
