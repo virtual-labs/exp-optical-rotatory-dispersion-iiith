@@ -1,5 +1,5 @@
 [
-{"question":"1. Abnormal ORD is observed when _________ is present in a chiral environment.",
+{"question":"1. Abnormal ORD is observed when --------- is present in a chiral environment.",
 "answer":{
           "a":"chromophore",
           "b":"asymmetry center",
@@ -8,7 +8,7 @@
           },
 "correctanswer":"a"},
 
-{"question":"2. At the absorption peak an anomalous ORD curve _____________. ",
+{"question":"2. At the absorption peak an anomalous ORD curve-------------. ",
 "answer":{
           "a":"reaches minimum",
           "b":"crosses the base line",
