@@ -1,6 +1,6 @@
 [
 {"question":"1. Molecular weight of a R enantiomer is ---------- than that of S enantiomer.",
-"answer":{
+"answers":{
           "a":"Higher",
           "b":"Equal",
           "c":"Lower",
@@ -9,7 +9,7 @@
 "correctanswer":"b"},
 
 {"question":"2. In normal ORD spectra there are ------ maxima and ----- minima.",
-"answer":{
+"answers":{
           "a":"1,2",
           "b":"1,1",
           "c":"0,0",
@@ -18,7 +18,7 @@
 "correctanswer":"c"},
 
 {"question":"3. Octant rule determines ---------- of Cotton effect in ketones.",
-"answer":{
+"answers":{
           "a":"magnitude",
           "b":"sign",
           "c":"probability",
