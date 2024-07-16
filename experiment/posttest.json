@@ -6,7 +6,7 @@
           "c":"chiral center",
           "d":"none of the above"
           },
-"correctanswers":"a"},
+"correctAnswer":"a"},
 
 {"question":"2. At the absorption peak an anomalous ORD curve --------------. ",
 "answers":{
@@ -15,5 +15,5 @@
           "c":"reaches maximum",
           "d":"none of the above"
           },
-"correctanswers":"b"}
+"correctAnswer":"b"}
 ]
