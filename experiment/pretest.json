@@ -6,7 +6,7 @@
           "c":"Lower",
           "d":"can not say"
           },
-"correctanswers":"b"},
+"correctAnswer":"b"},
 
 {"question":"2. In normal ORD spectra there are ------ maxima and ----- minima.",
 "answers":{
@@ -15,7 +15,7 @@
           "c":"0,0",
           "d":"0,1"
           },
-"correctanswers":"c"},
+"correctAnswer":"c"},
 
 {"question":"3. Octant rule determines ---------- of Cotton effect in ketones.",
 "answers":{
@@ -24,6 +24,6 @@
           "c":"probability",
           "d":"frequency"
           },
-"correctanswers":"b"}
+"correctAnswer":"b"}
 
 ]
